@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ricardo7al/reactjs2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ricardo7al/reactjs2/static/js/main.b591fc68.chunk.js",
+    "main.js.map": "/ricardo7al/reactjs2/static/js/main.b591fc68.chunk.js.map",
+    "runtime-main.js": "/ricardo7al/reactjs2/static/js/runtime-main.63fbe583.js",
+    "runtime-main.js.map": "/ricardo7al/reactjs2/static/js/runtime-main.63fbe583.js.map",
+    "static/js/2.dc2125b5.chunk.js": "/ricardo7al/reactjs2/static/js/2.dc2125b5.chunk.js",
+    "static/js/2.dc2125b5.chunk.js.map": "/ricardo7al/reactjs2/static/js/2.dc2125b5.chunk.js.map",
+    "index.html": "/ricardo7al/reactjs2/index.html",
+    "precache-manifest.43db02ccbe6119e5089a03930a8a857a.js": "/ricardo7al/reactjs2/precache-manifest.43db02ccbe6119e5089a03930a8a857a.js",
+    "service-worker.js": "/ricardo7al/reactjs2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ricardo7al/reactjs2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dc2125b5.chunk.js.LICENSE.txt": "/ricardo7al/reactjs2/static/js/2.dc2125b5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ricardo7al/reactjs2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63fbe583.js",
+    "static/js/2.dc2125b5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b591fc68.chunk.js"
+  ]
+}
